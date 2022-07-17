@@ -194,6 +194,4 @@ elseif ping < 20 then
 getgenv().Prediction = 0.157	
         end	
         end	
-	end
-hoodcustoms2tap.txt
-6 KB
+end
